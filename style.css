@@ -1,0 +1,19 @@
+.Top {
+    text-align: center;
+}
+table {
+    width: 50%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.Head {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.HLMFT {
+    line-height: 25px;
+    
+}
